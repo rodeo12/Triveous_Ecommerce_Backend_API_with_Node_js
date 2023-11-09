@@ -23,9 +23,10 @@ app.use(cors());
 
 app.use("/api-docs", swaggerUI.serve, swaggerUI.setup(swaggerSpec));
 
+
 // Home route-------->
 app.get("/",(req,res)=>{
-    res.status(200).send({msg:"Welcome To Ecommerce Api Backend"})
+    res.status(200).send({msg:"Welcome To Triveous Ecommerce Api Backend"})
 })
 
 
