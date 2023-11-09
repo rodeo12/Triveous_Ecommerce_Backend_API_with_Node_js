@@ -42,7 +42,7 @@ const getCategories = async (req, res) => {
 const getProductById = async (req, res) => {
     try {
         const { id } = req.params;
-        const product = await ProductModel.find({ _id: id });
+        const product = await ProductModel.findById(id);
 
         if (!product) {
             return res.status(404).send({ message: `Product with ID ${id} not found.` });
