@@ -51,7 +51,7 @@ const cartRouter = express.Router();
  *     description: Add a product to the user's cart.
  *     tags:
  *       - Cart
- *       security:
+ *     security:
  *       - bearerAuth: []  # This associates the "bearerAuth" scheme with this route
  *     parameters:
  *       - in: body
@@ -108,6 +108,7 @@ const cartRouter = express.Router();
  *             example:
  *               message: Internal server error.
  */
+
 
 cartRouter.post("/add",[
     body("product")
