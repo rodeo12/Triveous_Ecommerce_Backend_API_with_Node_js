@@ -121,25 +121,25 @@ password: `max@123`
 ## API Documentation 
 
 ### User-swagger
-
+![user](https://github.com/rodeo12/JS-101/assets/112781993/77549b59-0914-4b9e-b3e0-d8bf2d310a32)
 
 
 ### User-Products-swagger
-!
+![userproducts](https://github.com/rodeo12/JS-101/assets/112781993/baa1707e-f703-400a-986b-11eb7158f673)
 
 
 ### Seller-Products-swagger
-
+![sellerproducts](https://github.com/rodeo12/JS-101/assets/112781993/8718aa73-2eff-45d4-bae6-c3f972d288c0)
 
 
 
 ### Cart-swagger
-
+![cart](https://github.com/rodeo12/JS-101/assets/112781993/bcfb4cd7-8628-4958-9935-5744f950033b)
 
 
 ### order-swagger
-
+![order](https://github.com/rodeo12/JS-101/assets/112781993/617ed06f-7754-467f-b17c-0854dd5c717d)
 
 
 ### Schema-swagger
-![image](https://github.com/aman1722/Triveous_Ecommerce_API_with_Node_js/assets/112754413/bb5d6910-f362-4f87-b881-493c035961cf)
+![schema](https://github.com/rodeo12/JS-101/assets/112781993/35524e3a-da37-481c-bf94-1480a7d1f041)
