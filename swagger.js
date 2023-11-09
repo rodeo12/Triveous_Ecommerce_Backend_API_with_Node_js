@@ -19,7 +19,7 @@ const options = {
       },
     servers: [
       {
-        url: "https://triveous-ecommerce.onrender.com",
+        url: "https://pear-gorgeous-tortoise.cyclic.app",
       },
     ],
   },
